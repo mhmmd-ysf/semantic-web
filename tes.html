@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Popup container - can be anything you want */
+.popup {
+  position: relative;
+  display: inline-block;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  position: absolute;
+  /* z-index: 1; */
+  /* background-color: #555; */
+  /* color: #fff; */
+  /* text-align: center; */
+  /* width: 160px; */
+  /* border-radius: 6px; */
+  /* padding: 8px 0; */
+  /* bottom: 125%; */
+  /* left: 50%; */
+  /* margin-left: -80px; */
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+}
+</style>
+</head>
+<body style="text-align:center">
+
+<h2>Popup</h2>
+
+<div class="popup" onclick="popUp()">Click me to toggle the popup!
+  <span class="popuptext" id="myPopup">A Simple Popup!</span>
+</div>
+
+<script src="index.js"></script>
+</body>
+</html>

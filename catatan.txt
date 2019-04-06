@@ -1,0 +1,49 @@
+Lahir pada 22 Januari 1994, saya memulai bangku sekolah di SDS Kertapawitan Cengkareng pada tahun 2000, SMPN 45 Jakarta pada tahun 2006, dan SMAN 33 Jakarta pada tahun 2009. Beberapa kegiatan akademik dan ekstrakurikuler yang pernah saya ikuti adalah OSIS saat SMP, ditambah dengan Paskibra, Nihon Club, dan Majelis Permusyawaratan Kelas (MPK) sewaktu SMA.
+Setelah lulus dari SMA, saya melanjutkan pendidikan di S1 Pendidikan Informatika dan Komputer di Universitas Negeri Jakarta pada tahun 2012. Diantara 3 fokus peminatan, saya memilih Rekayasa Perangkat Lunak sebagai peminatan yang saya ambil. Saya kuliah selama 4 tahun dan lulus pada tahun 2016.
+
+Pada tahun kuliah ke 2, saya menjadi anggota Badan Eksekutif Mahasiswa Fakultas Teknik (BEM FT) dalam departemen Komunikasi dan Informmasi (Kominfo). Setelah itu saya bergabung pada periode kedua sebagai Wakil Kepala Departemen Kominfo.
+Kewajiban saya untuk melaksanakan Praktek Kerja Lapangan (PKL) saya lakukan di PT Sinergi Cakra Sinatria. Pekerjaan yang saya lakukan adalah menganalisis Modul Warehouse dalam sistem ERP untuk klien PT Panca Anugrah Wisesa.
+Setelah 6 bulan bekerja di PT TNT Skypak International sebagai Clearance Administrator, saya mendapat kesempatan untuk mengemban tanggung jawab yang lebih besar di bagian penginputan dan pengajuan data impor ke bea cukai di setiap pengiriman barangnya.
+
+Sejak SMP saya suka menguji jiwa kepemimpinan saya dengan mengikuti sejumlah organisasi, ekstrakurikuler, dan kegiatan non-akademik lainnya. Selain menumbuhkan jiwa kepemimpinan, organisasi akan memberimu teman yang memiliki pola pikir yang berbeda.
+Dalam Badan Eksekutif Mahasiswa Fakultas Teknik ini saya menjadi panitia untuk beberapa acara besar kampus di tingkat fakultas maupun universitas seperti Masa Pengenalan Akademik dan Blue Festival. BEM FT memberikan saya kesempatan besar untuk melatih softskill seperti komunikasi dan manajemen waktu.
+Pelatihan Kepemimpinan Mahasiswa Universitas (PKMU) merupakan kegiatan yang mengasah jiwa kepemimpinan untuk tingkat universitas. Berbeda dengan tingkat jurusan atau Fakultas, kegiatan PKMU menerjunkan peserta langsung ke masyarakat dan membantu kegiatan mereka sehari-hari.
+Komunitas 1000 guru ini merupakan Komunitas yang sangat frontal menyuarakan kondisi pendidikan di daerah-daerah yang tertinggal kepada pemerintah. Mereka membagikan potret pendidikan Indonesia dan kegiatan mengajar di beberapa sekolah yang kekurangan guru oleh rekan-rekan volunteer. Melalui komunitas ini diharapkan semakin banyak pemuda Indonesia yang ikut berperan memajukan pendidikan di daerah-daerah yang masih tertinggal.
+
+I'm currently enrolling a fullstack javascript program at Hacktiv8. If you are interested in hiring me for your project feel free to use the form below to get in touch.
+
+<style>
+/* Popup container - can be anything you want */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+</style>
